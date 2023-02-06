@@ -1,0 +1,19 @@
+{
+  "name": "reto2",
+  "version": "1.0.0",
+  "description": "Para subir un proyecto gib :\r hacemos un Git add . o con la ruta y el nombre del fichero como paso previo\r Hacemos un git commit para poder añadirlo a local\r Hacemos un git push para subirlo a remoto",
+  "main": "proyecto1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alvaroAdam/reto2.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alvaroAdam/reto2/issues"
+  },
+  "homepage": "https://github.com/alvaroAdam/reto2#readme"
+}
